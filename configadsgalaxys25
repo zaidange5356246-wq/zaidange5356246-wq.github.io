@@ -1,5 +1,5 @@
 {
-  "time_limit_inter": 120,
+  "time_limit_inter": 45,
   "native_ads_config": {
     "native_enabled": true,
     "native_300_welcome": true,
