@@ -1,0 +1,15 @@
+{
+  "time_limit_inter": 120,
+  "native_ads_config": {
+    "native_enabled": true,
+    "native_300_welcome": true,
+    "native_300_mainintro_1": true,
+    "native_300_mainintro_2": true,
+    "native_300_mainintro_3": true,
+    "native_full_mainintro_1": true,
+    "native_full_mainintro_2": true,
+    "native_300_tiptouse": true,
+    "native_300_language": true,
+    "inter_mainintro": true
+  }
+}
